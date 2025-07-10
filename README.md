@@ -51,7 +51,7 @@ python3 qwen3_benchmark.py reasoning    # Reasoning ability test
 - **Python**: 3.8+
 - **Memory**: 8GB+ RAM
 - **Storage**: 5GB available space
-- **GPU**: Recommended NVIDIA GPU (8GB+ VRAM)
+- **GPU**: Recommended NVIDIA GPU (8GB+)
 
 ## 💡 Usage Tips
 
