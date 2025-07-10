@@ -41,7 +41,7 @@ python3 qwen3_benchmark.py reasoning    # Reasoning ability test
 | Test Type | Questions | Capability Tested |
 |-----------|-----------|-------------------|
 | TruthfulQA | 50 | Hallucination detection |
-| MMLU-Law | 50 | Professional knowledge |
+| MMLU-Law | 20 | Professional knowledge |
 | ARC-Easy | 30 | Basic reasoning |
 | Multi-turn | 5×3 rounds | Memory & context understanding |
 | Adversarial | 10 prompts | Safety & robustness |
