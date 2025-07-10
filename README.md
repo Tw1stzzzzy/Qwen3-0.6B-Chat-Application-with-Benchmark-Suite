@@ -7,7 +7,7 @@ A complete chat application based on Qwen3-0.6B model with memory optimization a
 - 🤖 **Intelligent Chat** - Interactive chat interface powered by Qwen3-0.6B
 - 🔧 **Memory Optimization** - Automatic memory management to prevent GPU OOM errors
 - 📊 **Performance Testing** - 5 benchmark tests for comprehensive model evaluation
-- 🎨 **Beautiful Interface** - Gradio web interface with adjustable parameters
+- 🎨 **User Interface** - Gradio web interface with adjustable parameters
 
 ## 🚀 Quick Start
 
