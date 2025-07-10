@@ -72,8 +72,7 @@ qwen3_0.6b/
 ├── gradio_chat_app.py          # Main chat application
 ├── qwen3_benchmark.py          # Benchmark testing tool
 ├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation
-└── qwen3_benchmark_results_*.json  # Test results (auto-generated)
+└── README.md                   # Project documentation
 ```
 
 
