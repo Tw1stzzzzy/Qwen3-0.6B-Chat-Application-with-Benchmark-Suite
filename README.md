@@ -23,7 +23,6 @@ pip install -r requirements.txt
 python3 gradio_chat_app.py
 ```
 
-Access at: `http://localhost:7860`
 
 ### 3. Run Performance Tests (Optional)
 
